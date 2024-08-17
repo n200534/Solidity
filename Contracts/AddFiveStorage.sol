@@ -1,5 +1,6 @@
 
 // SPDX-License-Identifier: MIT
+//code for explaing the inheritance
 pragma solidity 0.8.26;
  
 //inheritance in  solidity 
