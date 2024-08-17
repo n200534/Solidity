@@ -14,7 +14,21 @@
 			},
 			{
 				"inputs": [],
-				"name": "myValue",
+				"name": "getConversionRate",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "getPrice",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "minimumUsd",
 				"outputs": [
 					{
 						"internalType": "uint256",
@@ -54,11 +68,11 @@
 	},
 	"sources": {
 		"Remix Fund me/FundMe.sol": {
-			"keccak256": "0x7bcc0ac1eb1103e1c0e74d36d1b41ba5b1207de4b2c0bfe814a6148958a41b39",
+			"keccak256": "0xa7a6d60bc0f8bbabea82f5ad5b9650debf5c0f944a003a54a15db61cd6c7950c",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://bc01b887d787c8796f2098e4681d5a5a56a282756a0d6877324e02f8a210acb6",
-				"dweb:/ipfs/QmRY7MSuRApaCGzC82UmZenrqiWUUPYK662MwBBjJvbGa9"
+				"bzz-raw://061a34a982d74cef71d72f802c36efd8b1054daaf951ab85b6ef2d7740387cf3",
+				"dweb:/ipfs/QmfVjCqSRGm3EokYeV4Y5Mzwm5quQqrzpYNcDEJqFjoLZ4"
 			]
 		}
 	},

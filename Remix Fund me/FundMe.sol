@@ -20,12 +20,17 @@ contract FundMe{
         //chainlink is the technology used to get the off chain data to on chain with same decentralised nodes
 
         //interfaces to convert usd into the on chain tokens
+        //interfaces are used to comminicate to the off chain things 
        
     }
     function getPrice()public {
         //we use the chain link data feeds
-        //addresss of the conttract for converting the ETH to USD
-        //ABI
+        //addresss of the contract for converting the ETH to USD
+        //0x694AA1769357215DE4FAC081bf1f309aDC325306
+        //ABI it is a function details used for function calls
+        
+
+
 
     }
     function getConversionRate() public {
